@@ -1,4 +1,4 @@
-# dna_aminoacid_encoder
+# dna_aminoacid_translator
 A simple code which converts a DNA sequence into the corresponding AA sequences
 
 ### This code:
